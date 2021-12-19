@@ -1,4 +1,4 @@
-#decompiled by FIQI
+#!/usr/bin/python2
 import os, sys
 print '\x1b[1;32m*Masukan "User: FiqiGz" dan "Password: duapuluhtujuh"'
 print '\x1b[1;32mSilahkan Login Script'
